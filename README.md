@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Me
 
-You can use the [editor on GitHub](https://github.com/freol35241/freol35241.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[LinkedIn](https://www.linkedin.com/in/fredrik-olsson-a3381a64/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Github](https://github.com/freol35241)
 
-### Markdown
+## Nice links
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[SciPy Lectures](https://scipy-lectures.org/)
 
-```markdown
-Syntax highlighted code block
+[Fossen's page](https://www.fossen.biz)
 
-# Header 1
-## Header 2
-### Header 3
+[PRIMAR chart catalouge](https://primar.ecc.no/primar/portal/ccw/)
 
-- Bulleted
-- List
+[GEBCO bathymetry data](https://www.gebco.net/data_and_products/gridded_bathymetry_data/)
 
-1. Numbered
-2. List
+[EMODnet bathymetry](https://www.emodnet-bathymetry.eu/)
 
-**Bold** and _Italic_ and `Code` text
+[SMHI open data](https://www.smhi.se/data/oppna-data)
 
-[Link](url) and ![Image](src)
-```
+[Copernicus Weather data](https://cds.climate.copernicus.eu/#%21/home)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Marine Regions](http://www.marineregions.org/)
 
-### Jekyll Themes
+[Geometry Algorithms](http://geomalgorithms.com/)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/freol35241/freol35241.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Spatial Indexing](https://gistbok.ucgis.org/bok-topics/spatial-indexing)
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Python Robotics](https://github.com/AtsushiSakai/PythonRobotics)
