@@ -1,10 +1,9 @@
-## Me
+# [Fredrik Olsson](https://www.linkedin.com/in/fredrik-olsson-a3381a64/)
 
-[LinkedIn](https://www.linkedin.com/in/fredrik-olsson-a3381a64/)
+Software engineer, naval architect and philomath.
 
-[Github](https://github.com/freol35241)
 
-## Nice links
+<!-- ## Nice links
 
 [SciPy Lectures](https://scipy-lectures.org/)
 
@@ -26,4 +25,4 @@
 
 [Spatial Indexing](https://gistbok.ucgis.org/bok-topics/spatial-indexing)
 
-[Python Robotics](https://github.com/AtsushiSakai/PythonRobotics)
+[Python Robotics](https://github.com/AtsushiSakai/PythonRobotics) -->
