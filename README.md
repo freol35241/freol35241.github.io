@@ -1,9 +1,10 @@
-# [Fredrik Olsson](https://www.linkedin.com/in/fredrik-olsson-a3381a64/)
+## Software autodidact, naval architect and philomath.
 
-Software engineer, naval architect and philomath.
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/fredrik-olsson-a3381a64/)
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/freol35241)
 
 
-<!-- ## Nice links
+#### Interesting reads
 
 [SciPy Lectures](https://scipy-lectures.org/)
 
@@ -25,4 +26,4 @@ Software engineer, naval architect and philomath.
 
 [Spatial Indexing](https://gistbok.ucgis.org/bok-topics/spatial-indexing)
 
-[Python Robotics](https://github.com/AtsushiSakai/PythonRobotics) -->
+[Python Robotics](https://github.com/AtsushiSakai/PythonRobotics)
