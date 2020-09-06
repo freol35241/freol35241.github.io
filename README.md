@@ -7,6 +7,14 @@
 
 ---
 
+#### Software development opinions
+
+[Martin Fowler](https://martinfowler.com/)
+
+#### CI/CD
+
+[CD4ML](https://martinfowler.com/articles/cd4ml.html)
+
 #### Scientific computing
 
 [SciPy Lectures](https://scipy-lectures.org/)
