@@ -11,7 +11,11 @@
 
 [Martin Fowler](https://martinfowler.com/)
 
-#### CI/CD
+#### Web app architecture
+
+[Traefik](https://docs.traefik.io/)
+
+#### DevOps / MLOps / ScienceOps
 
 [CD4ML](https://martinfowler.com/articles/cd4ml.html)
 
