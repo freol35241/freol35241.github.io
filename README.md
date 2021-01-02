@@ -11,6 +11,10 @@
 
 [Martin Fowler](https://martinfowler.com/)
 
+#### Build systems
+
+[Modern CMake](https://cliutils.gitlab.io/modern-cmake/)
+
 #### Web app architecture
 
 [Traefik](https://docs.traefik.io/)
